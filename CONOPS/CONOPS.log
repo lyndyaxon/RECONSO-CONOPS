@@ -1,0 +1,1040 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.16)  14 FEB 2017 12:26
+entering extended mode
+**CONOPS.tex
+(CONOPS.tex
+LaTeX2e <2015/01/01> patch level 2
+Babel <3.9m> and hyphenation patterns for 69 languages loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\was\gensymb.sty"
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2015/08/03 3.9m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2015/08/03 3.9m Babel common definitions
+\babel@savecnt=\count100
+\U@D=\dimen114
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\framed\framed.sty"
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip46
+\fb@frw=\dimen115
+\fb@frh=\dimen116
+\FrameRule=\dimen117
+\FrameSep=\dimen118
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen119
+\extrarowheight=\dimen120
+\NC@list=\toks20
+\extratabsurround=\skip47
+\backup@length=\skip48
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count101
+\lst@gtempboxa=\box28
+\lst@token=\toks21
+\lst@length=\count102
+\lst@currlwidth=\dimen121
+\lst@column=\count103
+\lst@pos=\count104
+\lst@lostspace=\dimen122
+\lst@width=\dimen123
+\lst@newlines=\count105
+\lst@lineno=\count106
+\lst@maxwidth=\dimen124
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count107
+\lst@skipnumbers=\count108
+\lst@framebox=\box29
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen125
+\Hy@linkcounter=\count109
+\Hy@pagecounter=\count110
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count111
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count112
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen126
+\Fld@menulength=\count113
+\Field@Width=\dimen127
+\Fld@charsize=\dimen128
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring ON on input line 6313.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count114
+\c@Item=\count115
+\c@Hfootnote=\count116
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count117
+\c@bookmark@seq@number=\count118
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip49
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\subfigure\subfigure.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip50
+\subfigcapskip=\skip51
+\subfigcaptopadj=\dimen129
+\subfigbottomskip=\skip52
+\subfigcapmargin=\dimen130
+\subfiglabelskip=\skip53
+\c@subfigure=\count119
+\c@lofdepth=\count120
+\c@subtable=\count121
+\c@lotdepth=\count122
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\subfigure\subfigure.cfg")
+\subfig@top=\skip54
+\subfig@bottom=\skip55
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2015/09/17 v3.3-111 Customizing captions (AR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2015/09/20 v1.7-115 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen131
+\captionmargin@=\dimen132
+\captionwidth=\dimen133
+\caption@tempdima=\dimen134
+\caption@indent=\dimen135
+\caption@parindent=\dimen136
+\caption@hangindent=\dimen137
+)
+\c@ContinuedFloat=\count123
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: subfigure package is loaded.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+\fancy@headwidth=\skip56
+\f@ncyO@elh=\skip57
+\f@ncyO@erh=\skip58
+\f@ncyO@olh=\skip59
+\f@ncyO@orh=\skip60
+\f@ncyO@elf=\skip61
+\f@ncyO@erf=\skip62
+\f@ncyO@olf=\skip63
+\f@ncyO@orf=\skip64
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lastpage\lastpage.sty"
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count124
+\Gm@cntv=\count125
+\c@Gm@tempcnt=\count126
+\Gm@bindingoffset=\dimen138
+\Gm@wd@mp=\dimen139
+\Gm@odd@mp=\dimen140
+\Gm@even@mp=\dimen141
+\Gm@layoutwidth=\dimen142
+\Gm@layoutheight=\dimen143
+\Gm@layouthoffset=\dimen144
+\Gm@layoutvoffset=\dimen145
+\Gm@dimlist=\toks22
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathtools\mathtools.sty"
+Package: mathtools 2015/11/12 v1.18 mathematical typesetting tools
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count127
+\calc@Bcount=\count128
+\calc@Adimen=\dimen146
+\calc@Bdimen=\dimen147
+\calc@Askip=\skip65
+\calc@Bskip=\skip66
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count129
+\calc@Cskip=\skip67
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathtools\mhsetup.sty"
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count130
+\l_MT_multwidth_dim=\dimen148
+\origjot=\skip68
+\l_MT_shortvdotswithinadjustabove_dim=\dimen149
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen150
+\l_MT_above_intertext_sep=\dimen151
+\l_MT_below_intertext_sep=\dimen152
+\l_MT_above_shortintertext_sep=\dimen153
+\l_MT_below_shortintertext_sep=\dimen154
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tensor\tensor.sty"
+Package: tensor 2004/12/20 v2.1 tensor indices package (PGR)
+\tnsr@Sps=\toks23
+\tnsr@Sbs=\toks24
+\tnsr@Spe=\toks25
+\tnsr@Sbe=\toks26
+\ncld@Mno=\toks27
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\adjustbox\adjustbox.sty"
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
+\XKV@toks=\toks28
+\XKV@tempa@toks=\toks29
+)
+\XKV@depth=\count131
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\adjustbox\adjcalc.sty"
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\adjustbox\trimclip.sty"
+Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\collectbox\collectbox.sty"
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box30
+)
+\tc@llx=\dimen155
+\tc@lly=\dimen156
+\tc@urx=\dimen157
+\tc@ury=\dimen158
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\adjustbox\tc-pdftex.def"
+File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen159
+\adjbox@Height=\dimen160
+\adjbox@Depth=\dimen161
+\adjbox@Totalheight=\dimen162
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ifoddpage\ifoddpage.sty"
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count132
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box31
+\sift@deathcycles=\count133
+\@vwid@loff=\dimen163
+\@vwid@roff=\dimen164
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\hhline.sty"
+Package: hhline 2014/10/28 v2.03 Table rule package (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\colortbl\colortbl.sty"
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+\everycr=\toks30
+\minrowclearance=\skip69
+)
+(CONOPS.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Info: Redefining \celsius on input line 71.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 71.
+
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 71.
+Package gensymb Info: Using \Omega for \ohm on input line 71.
+
+Package gensymb Warning: Not defining \micro.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count134
+\scratchdimen=\dimen165
+\scratchbox=\box32
+\nofMPsegments=\count135
+\nofMParguments=\count136
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count137
+\MPscratchDim=\dimen166
+\MPnumerator=\count138
+\makeMPintoPDFobject=\count139
+\everyMPtoPDFconversion=\toks32
+)
+\c@lstlisting=\count140
+\AtBeginShipoutBox=\box33
+Package hyperref Info: Link coloring ON on input line 71.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count141
+)
+LaTeX Info: Redefining \ref on input line 71.
+LaTeX Info: Redefining \pageref on input line 71.
+LaTeX Info: Redefining \nameref on input line 71.
+
+(CONOPS.out) (CONOPS.out)
+\@outlinefile=\write3
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 71.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(108.405pt, 397.485pt, 108.405pt)
+* v-part:(T,H,B)=(108.405pt, 578.15999pt, 108.405pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=397.485pt
+* \textheight=578.15999pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-102.67601pt
+* \headheight=113.81102pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=85.35826pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<Images/reconso_patch.png, id=75, 144.54pt x 124.5453pt>
+File: Images/reconso_patch.png Graphic file (type png)
+
+<use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 75.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+
+<Images/usaf_patch.jpg, id=77, 349.305pt x 349.305pt>
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+
+<use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 75.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+
+<Images/georgia_tech_logo.png, id=78, 482.0409pt x 115.3911pt>
+File: Images/georgia_tech_logo.png Graphic file (type png)
+
+<use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 75.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [1{C:/Users/Lyndy/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+ <./Images/reconso_patch.png> <./Images/usaf_patch.jpg> <./Images/georgia_tech_
+logo.png>]
+File: Images/reconso_patch.png Graphic file (type png)
+ <use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 106.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+
+<use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 106.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+ <use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 106.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [2]
+File: Images/reconso_patch.png Graphic file (type png)
+
+<use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 152.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+ <use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 152.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+
+<use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 152.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [3] (CONOPS.toc)
+\tf@toc=\write4
+File: Images/reconso_patch.png Graphic file (type png)
+
+<use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 157.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+ <use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 157.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+
+<use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 157.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [4] (CONOPS.lof)
+\tf@lof=\write5
+ (CONOPS.lot)
+\tf@lot=\write6
+File: Images/reconso_patch.png Graphic file (type png)
+
+<use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 165.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+ <use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 165.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+
+<use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 165.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [5]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: Images/reconso_patch.png Graphic file (type png)
+<use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 242.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+ <use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 242.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+
+<use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 242.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [6]
+File: Images/reconso_patch.png Graphic file (type png)
+ <use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 251.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+
+<use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 251.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+ <use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 251.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [7]
+File: Images/reconso_patch.png Graphic file (type png)
+
+<use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 261.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+ <use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 261.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+
+<use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 261.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [8]
+<Images/OV1.jpg, id=206, 722.7pt x 542.025pt>
+File: Images/OV1.jpg Graphic file (type jpg)
+ <use Images/OV1.jpg>
+Package pdftex.def Info: Images/OV1.jpg used on input line 280.
+(pdftex.def)             Requested size: 329.91327pt x 247.43228pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Images/OV2.jpg, id=207, 722.7pt x 542.025pt>
+File: Images/OV2.jpg Graphic file (type jpg)
+ <use Images/OV2.jpg>
+Package pdftex.def Info: Images/OV2.jpg used on input line 286.
+(pdftex.def)             Requested size: 329.91327pt x 247.43228pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: Images/reconso_patch.png Graphic file (type png)
+<use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 289.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+ <use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 289.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+
+<use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 289.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [9]
+
+LaTeX Warning: Text page 10 contains only floats.
+
+File: Images/reconso_patch.png Graphic file (type png)
+<use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 289.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+ <use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 289.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+
+<use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 289.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [10 <./Images/OV1.jpg> <./Images/OV2.jpg>]
+File: Images/reconso_patch.png Graphic file (type png)
+
+<use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 332.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+ <use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 332.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+
+<use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 332.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [11]
+File: Images/reconso_patch.png Graphic file (type png)
+ <use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 369.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+
+<use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 369.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+ <use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 369.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [12]
+File: Images/reconso_patch.png Graphic file (type png)
+
+<use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 413.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+ <use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 413.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+
+<use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 413.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [13]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: Images/reconso_patch.png Graphic file (type png)
+<use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 479.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+ <use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 479.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+
+<use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 479.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [14]
+File: Images/reconso_patch.png Graphic file (type png)
+ <use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 496.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+
+<use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 496.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+ <use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 496.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [15]
+File: Images/reconso_patch.png Graphic file (type png)
+
+<use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 537.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+ <use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 537.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+
+<use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 537.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [16]
+File: Images/reconso_patch.png Graphic file (type png)
+ <use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 601.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+
+<use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 601.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+ <use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 601.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [17]
+File: Images/reconso_patch.png Graphic file (type png)
+
+<use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 666.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+ <use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 666.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+
+<use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 666.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [18]
+File: Images/reconso_patch.png Graphic file (type png)
+ <use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 728.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+
+<use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 728.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+ <use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 728.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [19]
+File: Images/reconso_patch.png Graphic file (type png)
+
+<use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 787.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+ <use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 787.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+
+<use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 787.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [20]
+File: Images/reconso_patch.png Graphic file (type png)
+ <use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 844.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+
+<use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 844.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+ <use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 844.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [21]
+File: Images/reconso_patch.png Graphic file (type png)
+
+<use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 901.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+ <use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 901.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+
+<use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 901.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [22]
+File: Images/reconso_patch.png Graphic file (type png)
+ <use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 960.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+
+<use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 960.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+ <use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 960.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [23]
+File: Images/reconso_patch.png Graphic file (type png)
+
+<use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 1012.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+ <use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 1012.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+
+<use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 1012.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [24]
+File: Images/reconso_patch.png Graphic file (type png)
+ <use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 1059.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+
+<use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 1059.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+ <use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 1059.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [25]
+<Images/FlowChart.pdf, id=352, 1735.48375pt x 2024.56375pt>
+File: Images/FlowChart.pdf Graphic file (type pdf)
+
+<use Images/FlowChart.pdf>
+Package pdftex.def Info: Images/FlowChart.pdf used on input line 1067.
+(pdftex.def)             Requested size: 397.48454pt x 462.51974pt.
+ 
+AED: lastpage setting LastPage
+File: Images/reconso_patch.png Graphic file (type png)
+<use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 1070.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+ <use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 1070.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+
+<use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 1070.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [26 <./Images/FlowChart.pdf>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1070.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1070.
+ (CONOPS.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1070.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1070.
+
+
+
+Package rerunfilecheck Warning: File `CONOPS.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `CONOPS.out':
+(rerunfilecheck)             Before: A1A43F9368FB5691D9B6E7E50481A6BB;1175
+(rerunfilecheck)             After:  452316B6EF141A7C6BAB5920643F7B93;1193.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1070.
+ ) 
+Here is how much of TeX's memory you used:
+ 11015 strings out of 493673
+ 163875 string characters out of 3141529
+ 296470 words of memory out of 3000000
+ 14056 multiletter control sequences out of 15000+200000
+ 9330 words of font info for 34 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 36i,15n,75p,1394b,487s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on CONOPS.pdf (26 pages, 1410486 bytes).
+PDF statistics:
+ 409 PDF objects out of 1000 (max. 8388607)
+ 140 named destinations out of 1000 (max. 500000)
+ 175 words of extra memory for PDF output out of 10000 (max. 10000000)
+
