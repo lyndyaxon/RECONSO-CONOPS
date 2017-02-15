@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.16)  15 FEB 2017 13:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.16)  15 FEB 2017 17:18
 entering extended mode
 **CONOPS.tex
 (CONOPS.tex
@@ -670,83 +670,65 @@ Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 169.
 File: Images/reconso_patch.png Graphic file (type png)
 
 <use Images/reconso_patch.png>
-Package pdftex.def Info: Images/reconso_patch.png used on input line 179.
+Package pdftex.def Info: Images/reconso_patch.png used on input line 177.
 (pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
 File: Images/usaf_patch.jpg Graphic file (type jpg)
  <use Images/usaf_patch.jpg>
-Package pdftex.def Info: Images/usaf_patch.jpg used on input line 179.
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 177.
 (pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
 File: Images/georgia_tech_logo.png Graphic file (type png)
 
 <use Images/georgia_tech_logo.png>
-Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 179.
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 177.
 (pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
  [6]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-File: Images/reconso_patch.png Graphic file (type png)
-<use Images/reconso_patch.png>
-Package pdftex.def Info: Images/reconso_patch.png used on input line 254.
-(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
-File: Images/usaf_patch.jpg Graphic file (type jpg)
- <use Images/usaf_patch.jpg>
-Package pdftex.def Info: Images/usaf_patch.jpg used on input line 254.
-(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
-File: Images/georgia_tech_logo.png Graphic file (type png)
-
-<use Images/georgia_tech_logo.png>
-Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 254.
-(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
- [7]
 File: Images/reconso_patch.png Graphic file (type png)
  <use Images/reconso_patch.png>
-Package pdftex.def Info: Images/reconso_patch.png used on input line 263.
+Package pdftex.def Info: Images/reconso_patch.png used on input line 207.
 (pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
 File: Images/usaf_patch.jpg Graphic file (type jpg)
 
 <use Images/usaf_patch.jpg>
-Package pdftex.def Info: Images/usaf_patch.jpg used on input line 263.
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 207.
 (pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
 File: Images/georgia_tech_logo.png Graphic file (type png)
  <use Images/georgia_tech_logo.png>
-Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 263.
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 207.
 (pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
- [8]
-File: Images/reconso_patch.png Graphic file (type png)
+ [7]
 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: Images/reconso_patch.png Graphic file (type png)
 <use Images/reconso_patch.png>
-Package pdftex.def Info: Images/reconso_patch.png used on input line 273.
+Package pdftex.def Info: Images/reconso_patch.png used on input line 282.
 (pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
 File: Images/usaf_patch.jpg Graphic file (type jpg)
  <use Images/usaf_patch.jpg>
-Package pdftex.def Info: Images/usaf_patch.jpg used on input line 273.
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 282.
 (pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
 File: Images/georgia_tech_logo.png Graphic file (type png)
 
 <use Images/georgia_tech_logo.png>
-Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 273.
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 282.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [8]
+File: Images/reconso_patch.png Graphic file (type png)
+ <use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 291.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+
+<use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 291.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+ <use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 291.
 (pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
  [9]
-<Images/OV1.jpg, id=216, 722.7pt x 542.025pt>
-File: Images/OV1.jpg Graphic file (type jpg)
- <use Images/OV1.jpg>
-Package pdftex.def Info: Images/OV1.jpg used on input line 292.
-(pdftex.def)             Requested size: 329.91327pt x 247.43228pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<Images/OV2.jpg, id=217, 722.7pt x 542.025pt>
-File: Images/OV2.jpg Graphic file (type jpg)
- <use Images/OV2.jpg>
-Package pdftex.def Info: Images/OV2.jpg used on input line 298.
-(pdftex.def)             Requested size: 329.91327pt x 247.43228pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 File: Images/reconso_patch.png Graphic file (type png)
+
 <use Images/reconso_patch.png>
 Package pdftex.def Info: Images/reconso_patch.png used on input line 301.
 (pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
@@ -760,268 +742,308 @@ File: Images/georgia_tech_logo.png Graphic file (type png)
 Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 301.
 (pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
  [10]
+<Images/OV1.jpg, id=224, 722.7pt x 542.025pt>
+File: Images/OV1.jpg Graphic file (type jpg)
+ <use Images/OV1.jpg>
+Package pdftex.def Info: Images/OV1.jpg used on input line 320.
+(pdftex.def)             Requested size: 329.91327pt x 247.43228pt.
 
-LaTeX Warning: Text page 11 contains only floats.
 
-File: Images/reconso_patch.png Graphic file (type png)
-<use Images/reconso_patch.png>
-Package pdftex.def Info: Images/reconso_patch.png used on input line 301.
-(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
-File: Images/usaf_patch.jpg Graphic file (type jpg)
- <use Images/usaf_patch.jpg>
-Package pdftex.def Info: Images/usaf_patch.jpg used on input line 301.
-(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
-File: Images/georgia_tech_logo.png Graphic file (type png)
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<use Images/georgia_tech_logo.png>
-Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 301.
-(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
- [11 <./Images/OV1.jpg> <./Images/OV2.jpg>]
-File: Images/reconso_patch.png Graphic file (type png)
+<Images/OV2.jpg, id=225, 722.7pt x 542.025pt>
+File: Images/OV2.jpg Graphic file (type jpg)
+ <use Images/OV2.jpg>
+Package pdftex.def Info: Images/OV2.jpg used on input line 326.
+(pdftex.def)             Requested size: 329.91327pt x 247.43228pt.
 
-<use Images/reconso_patch.png>
-Package pdftex.def Info: Images/reconso_patch.png used on input line 344.
-(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
-File: Images/usaf_patch.jpg Graphic file (type jpg)
- <use Images/usaf_patch.jpg>
-Package pdftex.def Info: Images/usaf_patch.jpg used on input line 344.
-(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
-File: Images/georgia_tech_logo.png Graphic file (type png)
-
-<use Images/georgia_tech_logo.png>
-Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 344.
-(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
- [12]
-File: Images/reconso_patch.png Graphic file (type png)
- <use Images/reconso_patch.png>
-Package pdftex.def Info: Images/reconso_patch.png used on input line 381.
-(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
-File: Images/usaf_patch.jpg Graphic file (type jpg)
-
-<use Images/usaf_patch.jpg>
-Package pdftex.def Info: Images/usaf_patch.jpg used on input line 381.
-(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
-File: Images/georgia_tech_logo.png Graphic file (type png)
- <use Images/georgia_tech_logo.png>
-Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 381.
-(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
- [13]
-File: Images/reconso_patch.png Graphic file (type png)
-
-<use Images/reconso_patch.png>
-Package pdftex.def Info: Images/reconso_patch.png used on input line 425.
-(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
-File: Images/usaf_patch.jpg Graphic file (type jpg)
- <use Images/usaf_patch.jpg>
-Package pdftex.def Info: Images/usaf_patch.jpg used on input line 425.
-(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
-File: Images/georgia_tech_logo.png Graphic file (type png)
-
-<use Images/georgia_tech_logo.png>
-Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 425.
-(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
- [14]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 File: Images/reconso_patch.png Graphic file (type png)
 <use Images/reconso_patch.png>
-Package pdftex.def Info: Images/reconso_patch.png used on input line 491.
+Package pdftex.def Info: Images/reconso_patch.png used on input line 329.
 (pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
 File: Images/usaf_patch.jpg Graphic file (type jpg)
  <use Images/usaf_patch.jpg>
-Package pdftex.def Info: Images/usaf_patch.jpg used on input line 491.
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 329.
 (pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
 File: Images/georgia_tech_logo.png Graphic file (type png)
 
 <use Images/georgia_tech_logo.png>
-Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 491.
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 329.
 (pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
- [15]
+ [11]
+
+LaTeX Warning: Text page 12 contains only floats.
+
+File: Images/reconso_patch.png Graphic file (type png)
+<use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 329.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+ <use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 329.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+
+<use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 329.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [12 <./Images/OV1.jpg> <./Images/OV2.jpg>]
+File: Images/reconso_patch.png Graphic file (type png)
+
+<use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 372.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+ <use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 372.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+
+<use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 372.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [13]
 File: Images/reconso_patch.png Graphic file (type png)
  <use Images/reconso_patch.png>
-Package pdftex.def Info: Images/reconso_patch.png used on input line 508.
+Package pdftex.def Info: Images/reconso_patch.png used on input line 409.
 (pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
 File: Images/usaf_patch.jpg Graphic file (type jpg)
 
 <use Images/usaf_patch.jpg>
-Package pdftex.def Info: Images/usaf_patch.jpg used on input line 508.
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 409.
 (pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
 File: Images/georgia_tech_logo.png Graphic file (type png)
  <use Images/georgia_tech_logo.png>
-Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 508.
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 409.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [14]
+File: Images/reconso_patch.png Graphic file (type png)
+
+<use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 453.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+ <use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 453.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+
+<use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 453.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [15]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: Images/reconso_patch.png Graphic file (type png)
+<use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 519.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+ <use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 519.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+
+<use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 519.
 (pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
  [16]
 File: Images/reconso_patch.png Graphic file (type png)
-
-<use Images/reconso_patch.png>
-Package pdftex.def Info: Images/reconso_patch.png used on input line 549.
+ <use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 536.
 (pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
 File: Images/usaf_patch.jpg Graphic file (type jpg)
- <use Images/usaf_patch.jpg>
-Package pdftex.def Info: Images/usaf_patch.jpg used on input line 549.
+
+<use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 536.
 (pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
 File: Images/georgia_tech_logo.png Graphic file (type png)
-
-<use Images/georgia_tech_logo.png>
-Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 549.
+ <use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 536.
 (pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
  [17]
 File: Images/reconso_patch.png Graphic file (type png)
- <use Images/reconso_patch.png>
-Package pdftex.def Info: Images/reconso_patch.png used on input line 613.
+
+<use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 577.
 (pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
 File: Images/usaf_patch.jpg Graphic file (type jpg)
-
-<use Images/usaf_patch.jpg>
-Package pdftex.def Info: Images/usaf_patch.jpg used on input line 613.
+ <use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 577.
 (pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
 File: Images/georgia_tech_logo.png Graphic file (type png)
- <use Images/georgia_tech_logo.png>
-Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 613.
+
+<use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 577.
 (pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
  [18]
 File: Images/reconso_patch.png Graphic file (type png)
-
-<use Images/reconso_patch.png>
-Package pdftex.def Info: Images/reconso_patch.png used on input line 678.
+ <use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 641.
 (pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
 File: Images/usaf_patch.jpg Graphic file (type jpg)
- <use Images/usaf_patch.jpg>
-Package pdftex.def Info: Images/usaf_patch.jpg used on input line 678.
+
+<use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 641.
 (pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
 File: Images/georgia_tech_logo.png Graphic file (type png)
-
-<use Images/georgia_tech_logo.png>
-Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 678.
+ <use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 641.
 (pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
  [19]
 File: Images/reconso_patch.png Graphic file (type png)
- <use Images/reconso_patch.png>
-Package pdftex.def Info: Images/reconso_patch.png used on input line 740.
+
+<use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 706.
 (pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
 File: Images/usaf_patch.jpg Graphic file (type jpg)
-
-<use Images/usaf_patch.jpg>
-Package pdftex.def Info: Images/usaf_patch.jpg used on input line 740.
+ <use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 706.
 (pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
 File: Images/georgia_tech_logo.png Graphic file (type png)
- <use Images/georgia_tech_logo.png>
-Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 740.
+
+<use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 706.
 (pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
  [20]
 File: Images/reconso_patch.png Graphic file (type png)
-
-<use Images/reconso_patch.png>
-Package pdftex.def Info: Images/reconso_patch.png used on input line 799.
+ <use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 768.
 (pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
 File: Images/usaf_patch.jpg Graphic file (type jpg)
- <use Images/usaf_patch.jpg>
-Package pdftex.def Info: Images/usaf_patch.jpg used on input line 799.
+
+<use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 768.
 (pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
 File: Images/georgia_tech_logo.png Graphic file (type png)
-
-<use Images/georgia_tech_logo.png>
-Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 799.
+ <use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 768.
 (pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
  [21]
 File: Images/reconso_patch.png Graphic file (type png)
- <use Images/reconso_patch.png>
-Package pdftex.def Info: Images/reconso_patch.png used on input line 856.
+
+<use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 827.
 (pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
 File: Images/usaf_patch.jpg Graphic file (type jpg)
-
-<use Images/usaf_patch.jpg>
-Package pdftex.def Info: Images/usaf_patch.jpg used on input line 856.
+ <use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 827.
 (pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
 File: Images/georgia_tech_logo.png Graphic file (type png)
- <use Images/georgia_tech_logo.png>
-Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 856.
+
+<use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 827.
 (pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
  [22]
 File: Images/reconso_patch.png Graphic file (type png)
-
-<use Images/reconso_patch.png>
-Package pdftex.def Info: Images/reconso_patch.png used on input line 916.
+ <use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 884.
 (pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
 File: Images/usaf_patch.jpg Graphic file (type jpg)
- <use Images/usaf_patch.jpg>
-Package pdftex.def Info: Images/usaf_patch.jpg used on input line 916.
+
+<use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 884.
 (pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
 File: Images/georgia_tech_logo.png Graphic file (type png)
-
-<use Images/georgia_tech_logo.png>
-Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 916.
+ <use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 884.
 (pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
  [23]
 File: Images/reconso_patch.png Graphic file (type png)
- <use Images/reconso_patch.png>
-Package pdftex.def Info: Images/reconso_patch.png used on input line 976.
-(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
-File: Images/usaf_patch.jpg Graphic file (type jpg)
-
-<use Images/usaf_patch.jpg>
-Package pdftex.def Info: Images/usaf_patch.jpg used on input line 976.
-(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
-File: Images/georgia_tech_logo.png Graphic file (type png)
- <use Images/georgia_tech_logo.png>
-Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 976.
-(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
- [24]
-File: Images/reconso_patch.png Graphic file (type png)
 
 <use Images/reconso_patch.png>
-Package pdftex.def Info: Images/reconso_patch.png used on input line 1031.
+Package pdftex.def Info: Images/reconso_patch.png used on input line 944.
 (pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
 File: Images/usaf_patch.jpg Graphic file (type jpg)
  <use Images/usaf_patch.jpg>
-Package pdftex.def Info: Images/usaf_patch.jpg used on input line 1031.
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 944.
 (pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
 File: Images/georgia_tech_logo.png Graphic file (type png)
 
 <use Images/georgia_tech_logo.png>
-Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 1031.
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 944.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [24]
+File: Images/reconso_patch.png Graphic file (type png)
+ <use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 1004.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+
+<use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 1004.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+ <use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 1004.
 (pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
  [25]
 File: Images/reconso_patch.png Graphic file (type png)
+
+<use Images/reconso_patch.png>
+Package pdftex.def Info: Images/reconso_patch.png used on input line 1059.
+(pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
+File: Images/usaf_patch.jpg Graphic file (type jpg)
+ <use Images/usaf_patch.jpg>
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 1059.
+(pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
+File: Images/georgia_tech_logo.png Graphic file (type png)
+
+<use Images/georgia_tech_logo.png>
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 1059.
+(pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
+ [26]
+File: Images/reconso_patch.png Graphic file (type png)
  <use Images/reconso_patch.png>
-Package pdftex.def Info: Images/reconso_patch.png used on input line 1078.
+Package pdftex.def Info: Images/reconso_patch.png used on input line 1106.
 (pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
 File: Images/usaf_patch.jpg Graphic file (type jpg)
 
 <use Images/usaf_patch.jpg>
-Package pdftex.def Info: Images/usaf_patch.jpg used on input line 1078.
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 1106.
 (pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
 File: Images/georgia_tech_logo.png Graphic file (type png)
  <use Images/georgia_tech_logo.png>
-Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 1078.
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 1106.
 (pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
- [26]
-<Images/FlowChart.pdf, id=365, 1735.48375pt x 2024.56375pt>
+ [27]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 1108.
+
+<Images/FlowChart.pdf, id=373, 1735.48375pt x 2024.56375pt>
 File: Images/FlowChart.pdf Graphic file (type pdf)
 
 <use Images/FlowChart.pdf>
-Package pdftex.def Info: Images/FlowChart.pdf used on input line 1086.
+Package pdftex.def Info: Images/FlowChart.pdf used on input line 1114.
 (pdftex.def)             Requested size: 397.48454pt x 462.51974pt.
 File: Images/reconso_patch.png Graphic file (type png)
  <use Images/reconso_patch.png>
-Package pdftex.def Info: Images/reconso_patch.png used on input line 1089.
+Package pdftex.def Info: Images/reconso_patch.png used on input line 1117.
 (pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
 File: Images/usaf_patch.jpg Graphic file (type jpg)
 
 <use Images/usaf_patch.jpg>
-Package pdftex.def Info: Images/usaf_patch.jpg used on input line 1089.
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 1117.
 (pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
 File: Images/georgia_tech_logo.png Graphic file (type png)
  <use Images/georgia_tech_logo.png>
-Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 1089.
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 1117.
 (pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
- [27 <./Images/FlowChart.pdf>]
+ [28 <./Images/FlowChart.pdf>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 1118.
+
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ¦ in font cmr10!
 
-Overfull \hbox (66.32425pt too wide) in paragraph at lines 1092--1124
+Overfull \hbox (66.32425pt too wide) in paragraph at lines 1120--1152
 [] 
  []
 
@@ -1029,33 +1051,33 @@ Overfull \hbox (66.32425pt too wide) in paragraph at lines 1092--1124
 AED: lastpage setting LastPage
 File: Images/reconso_patch.png Graphic file (type png)
 <use Images/reconso_patch.png>
-Package pdftex.def Info: Images/reconso_patch.png used on input line 1126.
+Package pdftex.def Info: Images/reconso_patch.png used on input line 1154.
 (pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
 File: Images/usaf_patch.jpg Graphic file (type jpg)
  <use Images/usaf_patch.jpg>
-Package pdftex.def Info: Images/usaf_patch.jpg used on input line 1126.
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 1154.
 (pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
 File: Images/georgia_tech_logo.png Graphic file (type png)
 
 <use Images/georgia_tech_logo.png>
-Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 1126.
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 1154.
 (pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
- [28]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1126.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1126.
+ [29]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1154.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1154.
  (CONOPS.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1126.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1126.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1154.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1154.
 
 Package rerunfilecheck Info: File `CONOPS.out' has not changed.
-(rerunfilecheck)             Checksum: 9B2F478533A6FCD1FFDC04563067234C;1279.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1126.
+(rerunfilecheck)             Checksum: AA110A690DA02E0C15041924B5122F02;1287.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1154.
  ) 
 Here is how much of TeX's memory you used:
- 11035 strings out of 493673
- 164285 string characters out of 3141529
+ 11038 strings out of 493673
+ 164308 string characters out of 3141529
  296604 words of memory out of 3000000
- 14066 multiletter control sequences out of 15000+200000
+ 14067 multiletter control sequences out of 15000+200000
  9330 words of font info for 34 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  36i,15n,75p,1425b,487s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1064,9 +1086,9 @@ Here is how much of TeX's memory you used:
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/P
 rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Prog
 ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on CONOPS.pdf (28 pages, 1422057 bytes).
+Output written on CONOPS.pdf (29 pages, 1424186 bytes).
 PDF statistics:
- 429 PDF objects out of 1000 (max. 8388607)
- 146 named destinations out of 1000 (max. 500000)
+ 437 PDF objects out of 1000 (max. 8388607)
+ 148 named destinations out of 1000 (max. 500000)
  183 words of extra memory for PDF output out of 10000 (max. 10000000)
 
