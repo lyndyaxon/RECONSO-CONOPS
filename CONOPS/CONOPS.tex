@@ -14,6 +14,7 @@
             citecolor = blue,
             anchorcolor = blue]{hyperref}
 \usepackage{subfigure}
+\usepackage{underscore}
 \usepackage{caption}
 \usepackage{fancyhdr} 
 \usepackage{lastpage}  
@@ -1084,5 +1085,42 @@ Note: This image is best viewed in a digital format, where the reader can zoom i
 \centering
 \includegraphics[width=\textwidth,height=.8\textheight]{FlowChart.pdf}
 \end{figure} 
+
+\newpage
+\section{Appendix B: Commands and Nominal Telemetry Values}
+
+\begin{tabular}{|c|c|}
+	\hline
+	Commands      &  Nominal Result                \\ \hhline{|=|=|}
+	ADCS_Telemetry GET_ADCS_TEL() & See specific telemetry points below \\ \hline
+	float* MAGTORQ_CUR_CMD() & -0.3 to 0.3 \\ \hline
+	float* V_ECI() & -1000 to 1000 \\ \hline
+	float* Q_ECI_TO_BODY() & -7.67 to 7.67 \\ \hline
+	float* ANGVEL_BODY() & -1 to 1 \\ \hline
+	float VAR_ECI_POS() & -250 to 250 tumbling, -10 to 10 nominal \\ \hline
+	float VAR_ECI_VEL() & TBD \\ \hline
+	float VAR_BORESIGHT_ATTITUDE() & TBD \\ \hline
+	uint8_t POINTINGMODE() & 1, 2, 3 ,4 \\ \hline
+	float Q_ERROR_NORM() & 0 to 30 \\ \hline
+	uint8_t SUNSENSOR_FLAG() & 0 or 1 \\ \hline
+	uint8_t MAGMETER_FLAG() & 0 or 1  \\ \hline
+	uint8_t FILTER_RESET_FLAG() & 0 or 1 \\ \hline
+	uint16_t FILTER_RESET_TIMESTAMP() & Time \\ \hline
+	float* GYRO_GYROFRAME_MEAS() & -250 to 250 tumbling, -10 to 10 nominal \\ \hline
+	float* MAGMETER_MAGMETERFRAME_MEAS() & TBD \\ \hline
+	float* ACCELMETER_ACCELMETERFRAME_MEAS() & TBD \\ \hline
+	float* STARTRACKER_ECI_TO_BODY_MEAS() & 0 to 1 \\ \hline
+	double GPS_DATA() & TBD \\ \hline
+	float* SUNSENSOR_MEAS() & TBD \\ \hline
+	TORQUE_ROD_X_CURRENT(float xcurr) & -0.3 to 0.3 \\ \hline
+	TORQUE_ROD_Y_CURRENT(float ycurr) & -0.3 to 0.3 \\ \hline
+	TORQUE_ROD_Z_CURRENT(float zcurr)  & -0.3 to 0.3 \\ \hline
+	ADCS_Ack UPDATE_CONTROLLER_GAINS() & TBD \\ \hline
+	ADCS_Ack UPLOAD_POINTING_PROFILE(uint8_t pprof) & 0 or 1 \\ \hline
+	ADCS_Ack RESET_FILTER(uint8_t reset) & 0 or 1 \\ \hline
+	ADCS_Ack SET_POINTING_MODE(uint8_t pmode) & 0, 1, 2...5, 6 \\ \hline
+	ADCS_Ack SET_AD_SENSORS(uint8_t adsensors) & 0, 1, 2… 9, 10 \\ \hline
+\end{tabular} 
+
 
 \end{document}
