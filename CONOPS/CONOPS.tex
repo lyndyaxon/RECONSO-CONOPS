@@ -32,8 +32,8 @@
 
 \geometry{top=1.5in}
 \geometry{bottom=1.5in}
-\geometry{left=1.5in}
-\geometry{right=1.5in}
+\geometry{left=1in}
+\geometry{right=1in}
 
 \renewcommand\contentsname{}
 \renewcommand\listfigurename{}
@@ -1117,9 +1117,9 @@ Note: This image is best viewed in a digital format, where the reader can zoom i
 \newpage
 \section{Appendix B: \\ Commands and Nominal Telemetry Values}
 
-\begin{tabular}{|c|c|}
+\begin{tabular}{|l|l|}
 	\hline
-	Commands      &  Nominal Result                \\ \hhline{|=|=|}
+	ADCS Commands      &  Nominal Result                \\ \hhline{|=|=|}
 	ADCS_Telemetry GET_ADCS_TEL() & See specific telemetry points below \\ \hline
 	float* MAGTORQ_CUR_CMD() & -0.3 to 0.3 \\ \hline
 	float* V_ECI() & -1000 to 1000 \\ \hline
@@ -1146,9 +1146,125 @@ Note: This image is best viewed in a digital format, where the reader can zoom i
 	ADCS_Ack UPDATE_CONTROLLER_GAINS() & TBD \\ \hline
 	ADCS_Ack UPLOAD_POINTING_PROFILE(uint8_t pprof) & 0 or 1 \\ \hline
 	ADCS_Ack RESET_FILTER(uint8_t reset) & 0 or 1 \\ \hline
-	ADCS_Ack SET_POINTING_MODE(uint8_t pmode) & 0, 1, 2...5, 6 \\ \hline
-	ADCS_Ack SET_AD_SENSORS(uint8_t adsensors) & 0, 1, 2… 9, 10 \\ \hline
-\end{tabular} 
+	ADCS_Ack SET_POINTING_MODE(uint8_t pmode) & 0, 1, 2, $\dots$, 5, 6 \\ \hline
+	ADCS_Ack SET_AD_SENSORS(uint8_t adsensors) & 0, 1, 2, $\dots$, 9, 10 \\ \hline
+\end{tabular}
+\newpage
+\begin{tabular}{|l|l|}
+	\hline
+	CDH Commands      &  Nominal Result                \\ \hhline{|=|=|}
+	CDH_Telemetry GET_CDH_TEL() & See specific telemetry points below \\ \hline
+	uint32_t TYV_CPU_USERTIME(void) & time \\ \hline
+	uint32_t TYV_CPU_NICETIME(void) & time \\ \hline
+	uint32_t TYV_SYS_TIME(void) & time \\ \hline
+	uint32_t TYV_IDLE_TIME(void) & time \\ \hline
+	uint32_t TYV_VIRT_PG_IN(void) & 0 to TBD \\ \hline
+	uint32_t TYV_VIRT_PG_OUT(void) & 0 to TBD \\ \hline
+	uint32_t TYV_PG_SWPS_IN_MEM(void) & 0 to TBD \\ \hline
+	uint32_t TYV_PG_SWPS_OUT_MEM(void) & 0 to TBD \\ \hline
+	uint32_t TYV_NUM_INTERUPTS(void) & 0 to TBD \\ \hline
+	uint32_t TYV_NUM_PROC_CONTEXT_SWPS(void) & 0 to TBD \\ \hline
+	uint32_t TYV_TIME_FROM_BOOT(void) & time \\ \hline
+	uint32_t TYV_TOTAL_PROCESSES(void) & 0 to TBD \\ \hline
+	uint32_t TYV_RUN_PROCESSES(void) & 0 to TBD \\ \hline
+	uint32_t TYV_BLOCKED_PROCESSES(void) & 0 to TBD \\ \hline
+	uint32_t TYV_FREE_MEM(void) & 0 to 512 MB \\ \hline
+	uint32_t TYV_BUFF_MEM(void) & 0 to 512 MB \\ \hline
+	uint32_t TYV_CACHED_MEM(void) & 0 to 512 MB \\ \hline
+	uint32_t TYV_ACTIVE_MEM(void) & 0 to 512 MB \\ \hline
+	uint32_t TYV_VIRT_MEM_TOTAL(void) & 0 to TBD \\ \hline
+	uint32_t TYV_VRT_MEM_USED(void) & 0 to TBD \\ \hline
+	uint32_t TYV_MEM_FLASH_FREE(void) & 0 to 12 GB \\ \hline
+	uint32_t TYV_MEM_SD_FREE(void) & 0 to 32 GB TBR \\ \hline
+	uint32_t TYV_TIME_LINUX_EPOCH(void) & time \\ \hline
+	uint16_t TYV_CNTR_LONG_DURATION_STATUS(void) & time \\ \hline
+\end{tabular}
 
+\newpage
+\begin{tabular}{|l|l|}
+	\hline
+	COM Commands      &  Nominal Result                \\ \hhline{|=|=|}
+	COMM_Telemetry GET_COMM_TEL() & See specific telemetry points below \\ \hline
+	uint8_t DIPOLE_DEPLOYMENT() & 0 or 1 \\ \hline
+	uint8_t DIPOLE_STATUS() & 0 or 1 \\ \hline
+	float DIPOLE_TEMPERATURE() & -20 to 100 \\ \hline
+	uint32_t DUPLEX_RESET() & 0 to TBD \\ \hline
+	uint32_t DUPLEX_SECONDS() & time \\ \hline
+	uint8_t DUPLEX_RSSI() & -100 to 0 \\ \hline
+	uint8_t DUPLEX_GATEWAY() & TBD \\ \hline
+	uint32_t DUPLEX_LAST_CONTACT() & time \\ \hline
+	uint32_t DUPLEX_LAST_ATTEMPT() & time \\ \hline
+	uint32_t DUPLEX_NUMBER_CALL() & 0 to TBD \\ \hline
+	uint32_t DUPLEX_NUMBER_SUCCESS() & 0 to TBD \\ \hline
+	float DUPLEX_AVG_CONNECT() & time \\ \hline
+	float DUPLEX_STDDEV_CONNECT()  & 0 to TBD \\ \hline
+\end{tabular}
+
+\newpage
+\begin{tabular}{|l|l|}
+	\hline
+	EPS Commands      &  Nominal Result                \\ \hhline{|=|=|}
+	EPS_Telemetry GET_EPS_TEL() & See specific telemetry points below \\ \hline
+	int16_t BAT_BOARD_STATUS() & 8 bit response IAW Battery manual Table 12-2 \\ \hline
+	int16_t BAT_LAST_ERROR() & 16 bit response IAW Battery manual Table 12-3 \\ \hline
+	uint16_t BAT_VERSION() & 16 bit response IAW Battery manual Table 12-4 \\ \hline
+	int16_t BAT_CHECKSUM() & 16 bit response IAW Battery manual Table 12-5 \\ \hline
+	int16_t BAT_TELEM() & 8 bit response IAW Battery manual Section 12.5 \\ \hline
+	uint16_t BAT_BROWNOUT_RESETS() & 0 to 255 \\ \hline
+	uint16_t BAT_AUTO_RESETS() & 0 to 255 \\ \hline
+	uint16_t BAT_GET_MANUAL_RESETS() & 0 to 255 \\ \hline
+	int16_t BAT_GET_HEATER_CONTROL_STAT() & 16 bit response IAW Battery manual Table 12-8 \\ \hline
+	BAT_SET_HEATER_CONTROL_STAT() & EPS_Ack \\ \hline
+	BAT_SET_MANUAL_RESET() & EPS_Ack \\ \hline
+	CS_PCM_RESET()  & EPS_Ack \\ \hline
+	int32_t CS_VERSION() & 4 byte response IAW CS manual table on page 46 \\ \hline
+	CS_SET_SYSTEM_WATCHDOG_TIMEOUT() & EPS_Ack \\ \hline
+	CS_RESET_SYSTEM_WATCHDOG() & EPS_Ack \\ \hline
+	uint16_t CS_NUM_SYSTEM_RESETS() & 0 to 255 \\ \hline
+	CS_PDM_INITIAL_STATE_ON() & EPS_Ack \\ \hline
+	CS_PDM_ALL_PDM_ON() & EPS_Ack \\ \hline
+	CS_PDM_ALL_PDM_OFF()  & EPS_Ack \\ \hline
+	uint16_t CS_PDM_ACTUAL_STATUS() & 0 to 1 \\ \hline
+	uint16_t CS_PDM_INIT_STATE() & 0 to 1 \\ \hline
+	uint16_t CS_ANALG_TELEM(uint8_t device) & 0 to 1023 \\ \hline
+	uint16_t CS_GET_SYSTEM_WATCHDOG_TIMEOUT() & 1 to 90 \\ \hline
+	CS_PDM_SWITCH_ON() & EPS_Ack \\ \hline
+	CS_PDM_SWITCH_OFF() & EPS_Ack \\ \hline
+	uint16_t CS_GET_NUM_SOFT_RESETS() & 0 to 255 \\ \hline
+	int16_t CS_EXPECTED_PDM_SWITCH_STATE() & 10 bit response IAW CS manual Table 11 \\ \hline
+	uint16_t CS_BOARD_TEMP_COUNT() & 0 to 1024 \\ \hline
+	CS_RESET_NODE() & EPS_Ack \\ \hline
+\end{tabular}
+
+\newpage
+\begin{tabular}{|l|l|}
+	\hline
+	PAY Commands      &  Nominal Result                \\ \hhline{|=|=|}
+	PAY_Telemetry GET_PAY_TEL() & See specific telemetry points below \\ \hline
+	uint32_t MIN_THRESHOLD; & TBD \\ \hline
+	uint32_t MAX_THRESHOLD; & TBD \\ \hline
+	uint32_t THRESHOLD_STEP; & TBD \\ \hline
+	uint32_t MIN_BLOB_AREA; & TBD \\ \hline
+	uint32_t MAX_BLOB_AREA; & TBD \\ \hline
+	uint32_t NUM_DETECTIONS; & 0 to TBD \\ \hline
+	double MEAN_SIZE; & TBD \\ \hline
+	uint32_t ICP_ITERATION_LIMIT; & TBD \\ \hline
+	double ICP_CONVERGENCE_THRESHOLD; & TBD \\ \hline
+	uint32_t ICP_MAX_POINTS_CONSIDERED; & TBD \\ \hline
+	PAY_Image GET_RAW_IMAGE() & image data \\ \hline
+	PAY_ProcessedImage GET_PROCESSED_IMAGE() & processed image points \\ \hline
+	PAY_StarTracker GET_STAR_TRACKS() & star tracker points \\ \hline
+\end{tabular}
+
+\newpage
+\begin{tabular}{|l|l|}
+	\hline
+	TCS Commands      &  Nominal Result                \\ \hhline{|=|=|}
+	TCS_Telemetry GET_TCS_TEL() & See specific telemetry points below \\ \hline
+	uint16_t TEMP_RTD() & 244 to 311 K nominal, 73.15 to 787.15 degree K total range \\ \hline
+	uint8_t STATUS_HEATER() & 0 or 1 \\ \hline
+	SET_HEATER_ON() & 1 \\ \hline
+	SET_HEATER_OFF() & 0 \\ \hline
+\end{tabular}
 
 \end{document}
