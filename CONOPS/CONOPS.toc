@@ -1,19 +1,19 @@
 \select@language {english}
-\contentsline {section}{\numberline {1}Overview of RECONSO hardware and software}{6}{section.1}
-\contentsline {section}{\numberline {2}Overview of Flight Software}{7}{section.2}
-\contentsline {section}{\numberline {3}Spacecraft Modes of Operation}{9}{section.3}
-\contentsline {subsection}{\numberline {3.1}Post Deployment}{12}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Detumble}{13}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Safe Mode}{14}{subsection.3.3}
-\contentsline {subsection}{\numberline {3.4}Systems Checkouts}{15}{subsection.3.4}
-\contentsline {subsection}{\numberline {3.5}Optics Checkouts}{17}{subsection.3.5}
-\contentsline {subsection}{\numberline {3.6}Sunlight Operations}{18}{subsection.3.6}
-\contentsline {subsection}{\numberline {3.7}Sunlight Data Processing}{19}{subsection.3.7}
-\contentsline {subsection}{\numberline {3.8}Sunlight Transmit}{20}{subsection.3.8}
-\contentsline {subsection}{\numberline {3.9}Sunlight Nominal}{21}{subsection.3.9}
-\contentsline {subsection}{\numberline {3.10}Eclipse Data Processing}{22}{subsection.3.10}
-\contentsline {subsection}{\numberline {3.11}Eclipse Transmit}{23}{subsection.3.11}
-\contentsline {subsection}{\numberline {3.12}Eclipse Nominal}{24}{subsection.3.12}
-\contentsline {subsection}{\numberline {3.13}End of Life}{25}{subsection.3.13}
-\contentsline {section}{\numberline {4}Conclusion}{25}{section.4}
-\contentsline {section}{\numberline {5}Appendix A: Mode Switching Flow Chart}{26}{section.5}
+\contentsline {section}{\numberline {1}Overview of RECONSO hardware and software}{7}{section.1}
+\contentsline {section}{\numberline {2}Overview of Flight Software}{8}{section.2}
+\contentsline {section}{\numberline {3}Spacecraft Modes of Operation}{10}{section.3}
+\contentsline {subsection}{\numberline {3.1}Post Deployment}{13}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Detumble}{14}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Safe Mode}{15}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Systems Checkouts}{16}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Optics Checkouts}{18}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Sunlight Operations}{19}{subsection.3.6}
+\contentsline {subsection}{\numberline {3.7}Sunlight Data Processing}{20}{subsection.3.7}
+\contentsline {subsection}{\numberline {3.8}Sunlight Transmit}{21}{subsection.3.8}
+\contentsline {subsection}{\numberline {3.9}Sunlight Nominal}{22}{subsection.3.9}
+\contentsline {subsection}{\numberline {3.10}Eclipse Data Processing}{23}{subsection.3.10}
+\contentsline {subsection}{\numberline {3.11}Eclipse Transmit}{24}{subsection.3.11}
+\contentsline {subsection}{\numberline {3.12}Eclipse Nominal}{25}{subsection.3.12}
+\contentsline {subsection}{\numberline {3.13}End of Life}{26}{subsection.3.13}
+\contentsline {section}{\numberline {4}Conclusion}{26}{section.4}
+\contentsline {section}{\numberline {5}Appendix A: Mode Switching Flow Chart}{27}{section.5}
