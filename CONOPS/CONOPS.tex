@@ -54,7 +54,7 @@
 \chead{\LARGE{\textbf{Concept of Operations}}\vspace{0.5cm}}
 \rhead{\includegraphics[width=2cm]{usaf_patch}}
 
-\lfoot{\vspace{-1.0cm} February 10, 2016}
+\lfoot{\vspace{-1.0cm} February 14, 2017}
 \cfoot{\includegraphics[height=2cm]{georgia_tech_logo}}
 \rfoot{\vspace{-1.0cm} Page \thepage\ of \pageref{LastPage}}
 
@@ -63,7 +63,7 @@
 
 \title{\vspace{2in} \textbf{Concept of Operations}}
 \author{Team RECONSO}
-\date{February 10, 2016}
+\date{February 14, 2017}
 
 
 \author{Presented to Air Force Research Lab, University Nanosat Program}
@@ -132,7 +132,7 @@
     2.0       &     AFRL edits           &  2/8/2016    &  2/10/2016       \\
               &     from Pre-PIR            &              &            \\ \hline
               &     Updated flow chart;          &              &            \\
-	3.0       &     incorporated AFRL       &  2/14/2016    &  2/15/2016       \\
+	3.0       &     incorporated AFRL       &  2/14/2017    &  2/15/2017       \\
               &     edits from PIR         &              &            \\ \hline
 \end{tabular}
 \end{center}
@@ -173,9 +173,9 @@
 \section*{\centering List of Tables}
 \listoftables
 
+% need to add Nomenclature list here...
+
 \newpage
-
-
 \section*{Summary}
 
 The RECONSO mission aims to detect and track space objects with the goal of demonstrating uncued space surveillance capabilities on a CubeSat platform with COTS hardware. This document outlines the Concept of Operations (CONOPS) of the mission by providing a day in the life outline of the mission as well as an outline of detailed operations on a per orbit basis.The purpose of this document is to guide software development to accommodate for the changes in mission architecture and execution.
@@ -217,8 +217,8 @@ COM & NSL GlobalStar Patch Antenna \\ \hline \hline
 TCS & Omega Resistive Temperature Detector \\ \hline
 TCS & Omega 10 Whr Heater  \\ \hline
 TCS & In-house thermal board \\ \hline \hline
-CDH & Tyvak Intrepid \\ \hline
-CDH & In-house CDH Breakout board \\ \hline 
+AVI & Tyvak Intrepid \\ \hline
+AVI & In-house CDH Breakout board \\ \hline 
 \end{tabular}
 
 \quad
@@ -254,7 +254,7 @@ GlobalStar COM Transmit & Tyvak Intrepid \\ \hline
 
 \section{Overview of Flight Software}
 
-In the interest of clarifying the nomenclature of the RECONSO FSW team from those used by other groups that are employing the cFE architecture as well, the purpose of each block of FSW will be briefly explained. Please note that this is not being done from a computer science perspective, but rather from a systems-engineering perspective, with the interest of being easy to understand by those without a background in computer science. the reader should refer back to this list throughout the document to aid in the understand of how each piece of software will help accomplish the goal of each mode of the satellite.
+In the interest of clarifying the nomenclature of the RECONSO AVI team from those used by other groups that are employing the cFE architecture as well, the purpose of each block of FSW will be briefly explained. Please note that this is not being done from a computer science perspective, but rather from a systems-engineering perspective, with the interest of being easy to understand by those without a background in computer science. the reader should refer back to this list throughout the document to aid in the understand of how each piece of software will help accomplish the goal of each mode of the satellite.
 
 \begin{enumerate}
 \item Image Processing - When analyzing pictures taken by the payload, this block of code will handle the opening and reading of each image file.
@@ -314,8 +314,8 @@ EPS & ClydeSpace PMAD Distribution board  \\ \hline
 EPS & In-house EPS Breakout board \\ \hline
 EPS & In-house Inhibit board  \\ \hline
 EPS & In-house Solar panels  \\ \hline \hline
-CDH & Tyvak Intrepid \\ \hline
-CDH & In-house CDH Breakout board \\ \hline 
+AVI & Tyvak Intrepid \\ \hline
+AVI & In-house CDH Breakout board \\ \hline 
 \end{tabular}
 
 \quad
@@ -519,7 +519,7 @@ ADCS & In-house sun sensors  \\ \hline
 ADCS & In-house magnetorquers  \\ \hline
 ADCS & Tyvak Magnetometer \\ \hline
 ADCS & BBB ADCS Controller \\ \hline \hline
-COM & Tyvak UHF Daughterboard  \\ \hline
+% COM & Tyvak UHF Daughterboard  \\ \hline
 COM & ISIS UHF Dipole Antenna  \\ \hline
 COM & NSL GlobalStar Duplex  \\ \hline
 COM & NSL GlobalStar Patch Antenna \\ \hline \hline
@@ -570,7 +570,7 @@ GlobalStar COM Transmit & Tyvak Intrepid \\ \hline
 \begin{tabular}{|l|l|}
 \hline
 Subsystem & Hardware \\ \hline \hline
-PAY & Kowa LM60JS5MA Lens  \\ \hline
+PAY & Nocturn 50mm f/0.95 Lens  \\ \hline
 PAY & Nocturn XL CMOS Camera  \\ \hline
 PAY & Innoflight CFC-300 Processor  \\ \hline \hline
 ADCS & Analog Devices Inertial Measurement Unit  \\ \hline
@@ -580,7 +580,7 @@ ADCS & In-house sun sensors  \\ \hline
 ADCS & In-house magnetorquers  \\ \hline
 ADCS & Tyvak Magnetometer \\ \hline
 ADCS & BBB ADCS Controller \\ \hline \hline
-COM & Tyvak UHF Daughterboard  \\ \hline
+% COM & Tyvak UHF Daughterboard  \\ \hline
 COM & ISIS UHF Dipole Antenna  \\ \hline
 COM & NSL GlobalStar Duplex  \\ \hline
 COM & NSL GlobalStar Patch Antenna \\ \hline \hline
@@ -636,7 +636,7 @@ GlobalStar COM Transmit & Tyvak Intrepid \\ \hline
 \begin{tabular}{|l|l|}
 \hline
 Subsystem & Hardware \\ \hline \hline
-PAY & Kowa LM60JS5MA Lens  \\ \hline
+PAY & Nocturn 50mm f/0.95 Lens  \\ \hline
 PAY & Nocturn XL CMOS Camera  \\ \hline
 PAY & Innoflight CFC-300 Processor  \\ \hline \hline
 ADCS & Analog Devices Inertial Measurement Unit  \\ \hline
@@ -645,7 +645,7 @@ ADCS & AntCom 1.5G L1 GPS Antenna  \\ \hline
 ADCS & In-house sun sensors  \\ \hline
 ADCS & Tyvak Magnetometer \\ \hline
 ADCS & BBB ADCS Controller \\ \hline \hline
-COM & Tyvak UHF Daughterboard  \\ \hline
+% COM & Tyvak UHF Daughterboard  \\ \hline
 COM & ISIS UHF Dipole Antenna  \\ \hline
 COM & NSL GlobalStar Duplex  \\ \hline
 COM & NSL GlobalStar Patch Antenna \\ \hline \hline
@@ -707,7 +707,7 @@ ADCS & AntCom 1.5G L1 GPS Antenna  \\ \hline
 ADCS & In-house sun sensors  \\ \hline
 ADCS & Tyvak Magnetometer \\ \hline
 ADCS & BBB ADCS Controller \\ \hline \hline
-COM & Tyvak UHF Daughterboard  \\ \hline
+% COM & Tyvak UHF Daughterboard  \\ \hline
 COM & ISIS UHF Dipole Antenna  \\ \hline
 COM & NSL GlobalStar Duplex  \\ \hline
 COM & NSL GlobalStar Patch Antenna \\ \hline \hline
@@ -768,7 +768,7 @@ ADCS & AntCom 1.5G L1 GPS Antenna  \\ \hline
 ADCS & In-house sun sensors  \\ \hline
 ADCS & Tyvak Magnetometer \\ \hline
 ADCS & BBB ADCS Controller \\ \hline \hline
-COM & Tyvak UHF Daughterboard  \\ \hline
+% COM & Tyvak UHF Daughterboard  \\ \hline
 COM & ISIS UHF Dipole Antenna  \\ \hline
 COM & NSL GlobalStar Duplex  \\ \hline
 COM & NSL GlobalStar Patch Antenna \\ \hline \hline
@@ -827,7 +827,7 @@ ADCS & In-house sun sensors  \\ \hline
 ADCS & Tyvak Magnetometer \\ \hline
 ADCS & In-house magnetorquers \\ \hline
 ADCS & BBB ADCS Controller \\ \hline \hline
-COM & Tyvak UHF Daughterboard  \\ \hline
+% COM & Tyvak UHF Daughterboard  \\ \hline
 COM & ISIS UHF Dipole Antenna  \\ \hline
 COM & NSL GlobalStar Duplex  \\ \hline
 COM & NSL GlobalStar Patch Antenna \\ \hline \hline
@@ -884,7 +884,7 @@ PAY & Innoflight CFC-300 Processor  \\ \hline \hline
 ADCS & In-house sun sensors  \\ \hline
 ADCS & Tyvak Magnetometer \\ \hline
 ADCS & BBB ADCS Controller \\ \hline \hline
-COM & Tyvak UHF Daughterboard  \\ \hline
+% COM & Tyvak UHF Daughterboard  \\ \hline
 COM & ISIS UHF Dipole Antenna  \\ \hline
 COM & NSL GlobalStar Duplex  \\ \hline
 COM & NSL GlobalStar Patch Antenna \\ \hline \hline
@@ -942,7 +942,7 @@ PAY & Innoflight CFC-300 Processor  \\ \hline \hline
 ADCS & In-house sun sensors  \\ \hline
 ADCS & Tyvak Magnetometer \\ \hline
 ADCS & BBB ADCS Controller \\ \hline \hline
-COM & Tyvak UHF Daughterboard  \\ \hline
+% COM & Tyvak UHF Daughterboard  \\ \hline
 COM & ISIS UHF Dipole Antenna  \\ \hline
 COM & NSL GlobalStar Duplex  \\ \hline
 COM & NSL GlobalStar Patch Antenna \\ \hline \hline
@@ -1003,7 +1003,7 @@ Subsystem & Hardware \\ \hline \hline
 ADCS & In-house sun sensors  \\ \hline
 ADCS & Tyvak Magnetometer \\ \hline
 ADCS & BBB ADCS Controller \\ \hline \hline
-COM & Tyvak UHF Daughterboard  \\ \hline
+% COM & Tyvak UHF Daughterboard  \\ \hline
 COM & ISIS UHF Dipole Antenna  \\ \hline
 COM & NSL GlobalStar Duplex  \\ \hline
 COM & NSL GlobalStar Patch Antenna \\ \hline \hline
@@ -1053,7 +1053,7 @@ It should be noted that while COM hardware and software is listed as being neces
 \begin{tabular}{|l|l|}
 \hline
 Subsystem & Hardware \\ \hline \hline
-COM & Tyvak UHF Daughterboard  \\ \hline
+% COM & Tyvak UHF Daughterboard  \\ \hline
 COM & ISIS UHF Dipole Antenna  \\ \hline
 COM & NSL GlobalStar Duplex  \\ \hline
 COM & NSL GlobalStar Patch Antenna \\ \hline

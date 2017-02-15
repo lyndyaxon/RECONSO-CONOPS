@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.16)  15 FEB 2017 09:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.16)  15 FEB 2017 13:24
 entering extended mode
 **CONOPS.tex
 (CONOPS.tex
@@ -666,16 +666,16 @@ Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 168.
 File: Images/reconso_patch.png Graphic file (type png)
 
 <use Images/reconso_patch.png>
-Package pdftex.def Info: Images/reconso_patch.png used on input line 176.
+Package pdftex.def Info: Images/reconso_patch.png used on input line 178.
 (pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
 File: Images/usaf_patch.jpg Graphic file (type jpg)
  <use Images/usaf_patch.jpg>
-Package pdftex.def Info: Images/usaf_patch.jpg used on input line 176.
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 178.
 (pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
 File: Images/georgia_tech_logo.png Graphic file (type png)
 
 <use Images/georgia_tech_logo.png>
-Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 176.
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 178.
 (pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
  [6]
 
@@ -938,109 +938,109 @@ Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 855.
 File: Images/reconso_patch.png Graphic file (type png)
 
 <use Images/reconso_patch.png>
-Package pdftex.def Info: Images/reconso_patch.png used on input line 912.
+Package pdftex.def Info: Images/reconso_patch.png used on input line 915.
 (pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
 File: Images/usaf_patch.jpg Graphic file (type jpg)
  <use Images/usaf_patch.jpg>
-Package pdftex.def Info: Images/usaf_patch.jpg used on input line 912.
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 915.
 (pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
 File: Images/georgia_tech_logo.png Graphic file (type png)
 
 <use Images/georgia_tech_logo.png>
-Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 912.
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 915.
 (pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
  [23]
 File: Images/reconso_patch.png Graphic file (type png)
  <use Images/reconso_patch.png>
-Package pdftex.def Info: Images/reconso_patch.png used on input line 971.
+Package pdftex.def Info: Images/reconso_patch.png used on input line 975.
 (pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
 File: Images/usaf_patch.jpg Graphic file (type jpg)
 
 <use Images/usaf_patch.jpg>
-Package pdftex.def Info: Images/usaf_patch.jpg used on input line 971.
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 975.
 (pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
 File: Images/georgia_tech_logo.png Graphic file (type png)
  <use Images/georgia_tech_logo.png>
-Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 971.
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 975.
 (pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
  [24]
 File: Images/reconso_patch.png Graphic file (type png)
 
 <use Images/reconso_patch.png>
-Package pdftex.def Info: Images/reconso_patch.png used on input line 1023.
+Package pdftex.def Info: Images/reconso_patch.png used on input line 1030.
 (pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
 File: Images/usaf_patch.jpg Graphic file (type jpg)
  <use Images/usaf_patch.jpg>
-Package pdftex.def Info: Images/usaf_patch.jpg used on input line 1023.
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 1030.
 (pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
 File: Images/georgia_tech_logo.png Graphic file (type png)
 
 <use Images/georgia_tech_logo.png>
-Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 1023.
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 1030.
 (pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
  [25]
 File: Images/reconso_patch.png Graphic file (type png)
  <use Images/reconso_patch.png>
-Package pdftex.def Info: Images/reconso_patch.png used on input line 1070.
+Package pdftex.def Info: Images/reconso_patch.png used on input line 1077.
 (pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
 File: Images/usaf_patch.jpg Graphic file (type jpg)
 
 <use Images/usaf_patch.jpg>
-Package pdftex.def Info: Images/usaf_patch.jpg used on input line 1070.
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 1077.
 (pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
 File: Images/georgia_tech_logo.png Graphic file (type png)
  <use Images/georgia_tech_logo.png>
-Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 1070.
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 1077.
 (pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
  [26]
-<Images/FlowChart.pdf, id=357, 1735.48375pt x 2024.56375pt>
+<Images/FlowChart.pdf, id=360, 1735.48375pt x 2024.56375pt>
 File: Images/FlowChart.pdf Graphic file (type pdf)
 
 <use Images/FlowChart.pdf>
-Package pdftex.def Info: Images/FlowChart.pdf used on input line 1078.
+Package pdftex.def Info: Images/FlowChart.pdf used on input line 1085.
 (pdftex.def)             Requested size: 397.48454pt x 462.51974pt.
  
 AED: lastpage setting LastPage
 File: Images/reconso_patch.png Graphic file (type png)
 <use Images/reconso_patch.png>
-Package pdftex.def Info: Images/reconso_patch.png used on input line 1081.
+Package pdftex.def Info: Images/reconso_patch.png used on input line 1088.
 (pdftex.def)             Requested size: 56.9055pt x 49.03236pt.
 File: Images/usaf_patch.jpg Graphic file (type jpg)
  <use Images/usaf_patch.jpg>
-Package pdftex.def Info: Images/usaf_patch.jpg used on input line 1081.
+Package pdftex.def Info: Images/usaf_patch.jpg used on input line 1088.
 (pdftex.def)             Requested size: 56.9055pt x 56.90262pt.
 File: Images/georgia_tech_logo.png Graphic file (type png)
 
 <use Images/georgia_tech_logo.png>
-Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 1081.
+Package pdftex.def Info: Images/georgia_tech_logo.png used on input line 1088.
 (pdftex.def)             Requested size: 237.7173pt x 56.9055pt.
  [27 <./Images/FlowChart.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1081.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1081.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1088.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1088.
  (CONOPS.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1081.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1081.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1088.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1088.
 
 Package rerunfilecheck Info: File `CONOPS.out' has not changed.
 (rerunfilecheck)             Checksum: 452316B6EF141A7C6BAB5920643F7B93;1193.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1081.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1088.
  ) 
 Here is how much of TeX's memory you used:
- 11016 strings out of 493673
- 163882 string characters out of 3141529
+ 11019 strings out of 493673
+ 163903 string characters out of 3141529
  296470 words of memory out of 3000000
  14056 multiletter control sequences out of 15000+200000
  9330 words of font info for 34 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 36i,15n,75p,1394b,487s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,15n,75p,1425b,487s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/P
 rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Prog
 ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on CONOPS.pdf (27 pages, 1412230 bytes).
+Output written on CONOPS.pdf (27 pages, 1412723 bytes).
 PDF statistics:
- 414 PDF objects out of 1000 (max. 8388607)
- 141 named destinations out of 1000 (max. 500000)
+ 417 PDF objects out of 1000 (max. 8388607)
+ 144 named destinations out of 1000 (max. 500000)
  175 words of extra memory for PDF output out of 10000 (max. 10000000)
 
