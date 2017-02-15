@@ -425,7 +425,7 @@ BBB Hardware Controller & Tyvak Intrepid \\ \hline
 
 \subsection{Safe Mode}
 
-\underline{Overview:} Safe mode is designed to be the bare minimum operations that the spacecraft can carry out. It will be placed into this mode upon a reboot of the primary flight computer and at any time throughout spacecraft operations that a health measurement is recorded outside of nominal bounds for a given component. If the health monitoring code detects unacceptable health values, it will kill any active processes and record in the Event Log the reasoning for entering safe mode. Telemetry will be polled and recorded throughout safe mode operation so that it can be determined when the system is ready to exit safe mode. COM will be enabled during this mode so that the ground can understand why the spacecraft has entered this mode and any changes to the planned operations can be made. However, fine pointing will not be required as the mostly omnidirectional nature of the GlobalStar and UHF COM systems will allow for low-throughput communications that will be required for the ground to accurately diagnose the situation and command any basic operation that will bring the spacecraft out of safe mode.
+\underline{Overview:} Safe mode is designed to be the bare minimum operations that the spacecraft can carry out. It will be placed into this mode upon a reboot of the primary flight computer and at any time throughout spacecraft operations that a health measurement is recorded outside of nominal bounds for a given component. If the health monitoring code detects unacceptable health values, it will kill any active processes and record in the Event Log the reasoning for entering safe mode. Telemetry will be polled and recorded throughout safe mode operation so that it can be determined when the system is ready to exit safe mode. COM will be enabled during this mode so that the ground can understand why the spacecraft has entered this mode and any changes to the planned operations can be made. Only UHF COM will be utilized in safe mode in order to maximize the power efficiency and protect the battery from critical levels. Fine pointing will not be required as the mostly omnidirectional nature of the UHF COM systems will allow for low-throughput communications that will be required for the ground to accurately diagnose the situation and command any basic operation that will bring the spacecraft out of safe mode. The ADCS and TCS subsystems remain active throughout safe mode to ensure the payload lens remains healthy and does not point directly at the sun or exceed a nominal temperature range.
 
 It should also be noted that every other mode of operation has exit criteria equivalent to the entry criteria of safe mode, i.e. if any of the anomalies that trigger safe mode occur in any other operating mode, that mode is terminated and safe mode is initiated.
 
@@ -491,7 +491,7 @@ GlobalStar COM Transmit & Tyvak Intrepid \\ \hline
 
 \subsection{Systems Checkouts}
 
-\underline{Overview:} The Systems Checkouts mode will be used for diagnosing the long term health of the spacecraft. As such, it varies from Safe mode only slightly. Systems Checkouts will be used at two different times throughout the lifecycle of the spacecraft: upon exiting safe mode for the first time after launch and upon ground station commanding of this mode. Upon first exiting safe mode, the spacecraft will remain in this mode for 7 days. This will be done to determine that there has not been any subtle degradation of the spacecraft hardware cause by the launch environment and that it is able to function for extended periods of time. During this mode, telemetry will be sent from the spacecraft down to the ground station every hour in the form of a beacon. To ensure the health of GlobalStar system, this beacon will first be sent over GlobalStar COM. However, in order to ensure that the backup UHF COM is also functional, the UHF system will be used for extended periods of time as well, upon being commanded to do so by the ground station. This will allow for proper testing of both COM systems and allow the mission operations team to become familiar with the operation of the spacecraft and to address any problems with the spacecraft before they become untenable. The spacecraft will exit this mode of operation when commanded to do so by the ground station.
+\underline{Overview:} The Systems Checkouts mode will be used for diagnosing the long term health of the spacecraft. As such, it varies from Safe mode only slightly. Systems Checkouts will be used at two different times throughout the lifecycle of the spacecraft: upon exiting safe mode for the first time after launch and upon ground station commanding of this mode. Upon first exiting safe mode, the spacecraft will remain in this mode for 7 days. This will be done to determine that there has not been any subtle degradation of the spacecraft hardware cause by the launch environment and that it is able to function for extended periods of time. During this mode, telemetry will be sent from the spacecraft down to the ground station every hour in the form of a beacon. To ensure the health of GlobalStar system, this beacon will first be sent over GlobalStar COM. However, in order to ensure that the UHF COM is also functional, the ground station will command the satellite to switch to UHF after verifying health of the GlobalStar system. This will allow for proper testing of both COM systems and allow the mission operations team to become familiar with the operation of the spacecraft and to address any problems with the spacecraft before they become untenable. The spacecraft will exit this mode of operation when commanded to do so by the ground station.
 
 \underline{Entry Criteria:} 
 
@@ -856,13 +856,16 @@ GlobalStar COM Receive & Tyvak Intrepid \\ \hline
 
 \subsection{Eclipse Data Processing}
 
-\underline{Overview:} The Eclipse Data Processing mode is very similar to Sunlight Data Processing in that it processes whatever is left of the payload image data after it has been gathered and saved to disk. However, there is a difference in hardware used during this mode as the spacecraft should be in a lower power state while in eclipse so as not reach an unacceptable depth of discharge. It is assumed that the spacecraft will not be collecting data while it is in eclipse, so if there is no data to be processed, this mode will not be entered.
+\underline{Overview:} The Eclipse Data Processing mode is very similar to Sunlight Data Processing in that it processes whatever is left of the payload image data after it has been gathered and saved to disk. However, there is a difference in hardware used during this mode as the spacecraft should be in a lower power state while in eclipse so as not reach an unacceptable depth of discharge. In addition, due to the heavy power requirement of the Innoflight CFC-300 hardware, this state must be entered by command from the ground station upon verification that there is a sufficient battery charge remaining.
+
+It is assumed that the spacecraft will not be collecting data while it is in eclipse, so if there is no data to be processed, this mode will not be entered.
 
 \underline{Entry Criteria:} 
 
 \begin{enumerate}
 \item Entrance into eclipse
 \item Unprocessed payload data still on disk
+\item Command from ground station after verification of sufficient battery charge
 \end{enumerate}
 
 \underline{Exit Criteria:}
@@ -920,6 +923,7 @@ GlobalStar COM Receive & Tyvak Intrepid \\ \hline
 \begin{enumerate}
 \item Completion of Eclipse Data Processing
 \item Payload data on disk that has not been downlinked
+\item Command from ground station after verification of sufficient battery charge
 \end{enumerate}
 
 \underline{Exit Criteria:}
@@ -972,7 +976,9 @@ GlobalStar COM Transmit & Tyvak Intrepid \\ \hline
 
 \subsection{Eclipse Nominal}
 
-\underline{Overview:} Upon completion of Eclipse Transmit mode (or having never entered it) the spacecraft will then complete the next pointing command relevant to the gathering of payload data. Given that the spacecraft is in eclipse, this will be towards one of the poles as opposed to towards the equator. Upon completing this slew maneuver, the spacecraft will wait until entering sunlight and further payload operations.
+\underline{Overview:} Upon completion of Eclipse Transmit mode or Eclipse Data Processing mode (or having never entered either), the spacecraft will enter Eclipse Nominal mode. Upon verification of a sufficient battery charge, the next pointing command relevant to the gathering of payload data will be executed. Given that the spacecraft is in eclipse, this will be towards one of the poles as opposed to towards the equator. Upon completing this slew maneuver, the spacecraft will wait until entering sunlight and further payload operations.
+
+If the battery charge level is deemed insufficient to avoid entering safe mode due to depth of discharge, this state will not execute a pointing command and therefore idle until the end of eclipse.
 
 \underline{Entry Criteria:} 
 
@@ -985,6 +991,7 @@ GlobalStar COM Transmit & Tyvak Intrepid \\ \hline
 \begin{enumerate}
 \item Accomplishment of next pointing command
 \item Entrance into sunlight
+\item Pointing command executed upon verification of sufficient battery power remaining
 \end{enumerate}
 
 \begin{table}[h!]
