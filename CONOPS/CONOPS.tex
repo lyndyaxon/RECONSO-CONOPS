@@ -191,7 +191,7 @@
 		FSM	 & Finite state Machine \\ 
 		FSW     & Flight Software   \\ 
 		GPS  &  Global Positioning System \\ 
-		HM     & STR Lead   \\ 
+		HM     & Health Monitoring   \\ 
 		NASA  & National Aeronautics and Space Administration \\ 
 		NSL      &  Near Space Launch   \\ 
 		PAY  & Payload \\ 
@@ -232,14 +232,14 @@ EPS & ClydeSpace PMAD Distribution board  \\ \hline
 EPS & In-house EPS Breakout board \\ \hline
 EPS & In-house Inhibit board  \\ \hline
 EPS & In-house Solar panels  \\ \hline \hline
-ADCS & Analog Devices Inertial Measurement Unit  \\ \hline
+% ADCS & Analog Devices Inertial Measurement Unit  \\ \hline
 ADCS & Pumpkin GPSRM 1 GPS Receiver \\ \hline
 ADCS & AntCom 1.5G L1 GPS Antenna  \\ \hline
 ADCS & In-house sun sensors  \\ \hline
 ADCS & In-house magnetorquers  \\ \hline
 ADCS & Tyvak Magnetometer \\ \hline
 ADCS & BBB ADCS Controller \\ \hline \hline
-COM & Tyvak UHF Daughterboard  \\ \hline
+% COM & Tyvak UHF Daughterboard  \\ \hline
 COM & ISIS UHF Dipole Antenna  \\ \hline
 COM & NSL GlobalStar Duplex  \\ \hline
 COM & NSL GlobalStar Patch Antenna \\ \hline \hline
@@ -305,7 +305,7 @@ In the interest of clarifying the nomenclature of the RECONSO AVI team from thos
 \item UHF COM Receive - The UHF COM Receive app communicates with the UHF Daughterboard to receive and pass along the message bus any messages that the satellite receives from the ground over UHF.
 \item UHF COM Transmit - The UHF COM Transmit app communicates with the UHF Daughterboard to package messages that the satellite sends to the ground over UHF.
 \item GlobalStar COM Receive - The GlobalStar COM Receive app serves the same purpose as the UHF COM Receive app, except it communicates with the GlobalStar Duplex.
-\item GlobalStar COM Transmit -The GlobalStar COM Receive app serves the same purpose as the UHF COM Transmit app, except it communicates with the GlobalStar Duplex.
+\item GlobalStar COM Transmit -The GlobalStar COM Transmit app serves the same purpose as the UHF COM Transmit app, except it communicates with the GlobalStar Duplex.
 \end{enumerate}
 
 \section{Spacecraft Modes of Operation}
@@ -317,13 +317,13 @@ The FSM will make these decisions based off of health data, commands in the sche
 \begin{figure}[h!]
 \centering
 \caption{Operation of RECONSO over the course of the entire mission lifetime.}
-\includegraphics[width=.83\textwidth]{OV1.jpg}
+\includegraphics[width=.7\textwidth]{OV1.jpg}
 \end{figure}
 
 \begin{figure}[h!]
 \centering
 \caption{Operation of RECONSO over the course of a given orbit.}
-\includegraphics[width=.83\textwidth]{OV2.jpg}
+\includegraphics[width=.7\textwidth]{OV2.jpg}
 \end{figure}
 
 \newpage
