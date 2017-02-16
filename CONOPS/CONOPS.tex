@@ -308,6 +308,7 @@ In the interest of clarifying the nomenclature of the RECONSO AVI team from thos
 \item GlobalStar COM Transmit -The GlobalStar COM Transmit app serves the same purpose as the UHF COM Transmit app, except it communicates with the GlobalStar Duplex.
 \end{enumerate}
 
+\clearpage
 \section{Spacecraft Modes of Operation}
 
 As was mentioned in the previous section, the mode switching on RECONSO will be handled by the FSM built-in cFE application. The FSM application will command various components and processes to either begin or end operations based on the mode into which it determines the satellite currently needs to operate. 
@@ -516,7 +517,7 @@ GlobalStar COM Transmit & Tyvak Intrepid \\ \hline
 \end{adjustbox}
 \end{table}
 
-\newpage
+\clearpage
 
 \subsection{Systems Checkouts}
 
@@ -638,7 +639,7 @@ GlobalStar COM Transmit & Tyvak Intrepid \\ \hline
 \end{adjustbox}
 \end{table}
 
-\newpage
+\clearpage
 
 \subsection{Sunlight Operations}
 
@@ -769,7 +770,7 @@ GlobalStar COM Receive & Tyvak Intrepid \\ \hline
 
 \subsection{Sunlight Transmit}
 
-\underline{Overview:} Given the quasi-global coverage supplied by the GlobalStar network, the transmission of data from the spacecraft to the ground can occur at any point in the spacecraft's orbit. As such, the spacecraft will, at a minimum enter this mode to downlink health data to the ground. If the spacecraft has made one of more tracks since last entering transmit mode, those tracks will be downlinked as well. Should the spacecraft not register any tracks after data processing, only health data will be downlinked and the FSM will direct the spacecraft straight to Sunlight Nominal Operations. Given that the spacecraft will constantly be able to receive messages while outside of Post Deployment mode, this mode will also be entered should the ground command a response from the spacecraft.
+\underline{Overview:} Given the quasi-global coverage supplied by the GlobalStar network, the transmission of data from the spacecraft to the ground can occur at any point in the spacecraft's orbit. As such, the spacecraft will, at a minimum enter this mode to downlink health data to the ground. If the spacecraft has made one or more tracks since last entering transmit mode, those tracks will be downlinked as well. Should the spacecraft not register any tracks after data processing, only health data will be downlinked and the FSM will direct the spacecraft straight to Sunlight Nominal Operations. Given that the spacecraft will constantly be able to receive messages while outside of Post Deployment mode, this mode will also be entered should the ground command a response from the spacecraft.
 
 \underline{Entry Criteria:} 
 
@@ -1099,23 +1100,14 @@ GlobalStar COM Receive & Tyvak Intrepid \\ \hline
 \end{adjustbox}
 \end{table}
 
+\newpage
 \section{Conclusion}
 
 There are a total of 13 modes of operation of RECONSO, each accomplishing a unique function. To reiterate, the FSM code will handle all switching between each mode autonomously based on pre-defined entry an exit criteria. Once the nominal mission lifetime of RECONSO has been accomplished, the End of Life mode will be commanded, and the mission will be permanently ended. Please reference Appendix A for a visual flow chart representation of this same information.
 
-\newpage
-
-\section{Appendix A: \\ Mode Switching Flow Chart}
-
-Note: This image is best viewed in a digital format, where the reader can zoom in on any desired section of the flow chart.
-
-\begin{figure}[h!]
-\centering
-\includegraphics[width=\textwidth,height=.8\textheight]{FlowChart.pdf}
-\end{figure} 
 
 \newpage
-\section{Appendix B: \\ Commands and Nominal Telemetry Values}
+\section{Appendix A: \\ Commands and Nominal Telemetry Values}
 
 \begin{tabular}{|l|l|}
 	\hline
